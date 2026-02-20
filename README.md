@@ -1,4 +1,4 @@
-## Hi, I'm Eunjae. 👋
+## 🐳 Hi, I'm Eunjae. 
 
 I am an aspiring economist who seeks to apply artificial intelligence and data analytics to address problems in the social sciences.
 
