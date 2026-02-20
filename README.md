@@ -25,4 +25,5 @@ With the long-term goal of modeling complex real-world phenomena through computa
 
 ## 📊 GitHub Stats
 
-![Eunjae's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjaelee1004&show_icons=true&theme=default)
+[![Eunjae's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjaelee1004&show_icons=true&theme=default)
+](https://github-readme-stats.vercel.app/api?username=eunjaelee1004&show_icons=true)
