@@ -23,5 +23,3 @@ With the long-term goal of modeling complex real-world phenomena through computa
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" 
      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjaelee1004&show_icons=true)
